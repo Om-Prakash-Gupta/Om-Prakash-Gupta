@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Om-Prakash-Gupta
 - 👀 I’m interested in Android Development and Web Development
-- 🌱 I’m currently learning Android Development in Kotlin
+- 🌱 I’m currently learning Android Development in Kotlin & Java
 - 💞️ I’m ready to collaborate on Projects related to Android
 
 <!---
